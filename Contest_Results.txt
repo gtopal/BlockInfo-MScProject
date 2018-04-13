@@ -1,0 +1,24 @@
+--------------------Information about the block--------------------
+BlockHash : 0000000000000000004a0beb96e00ec1f5c5b8d2466257ecb41afdfda156b489
+Difficulty : 391129783
+Nonce : 1297037763
+Time : Thu Apr 12 12:02:28 EEST 2018
+Previous : 000000000000000000128cca7a81fa9039b6ab62529eedd8768706f32f299a1c
+Block Height : 517839
+Number of transactions : 469
+Seed : 981578e9ebbb597441dfc519fcb75b1987c97e3bd889a3e9650d22a58d52d2ff
+---------------------------------------------------------------------------
+--------------------Information about the winner--------------------
+Participant [id=1
+ticket=1
+seed=981578e9ebbb597441dfc519fcb75b1987c97e3bd889a3e9650d22a58d52d2ff
+identifier=041189c6ecd6b0973de567b11ee05def5be9280455ca6308b5394b7e1359fba8]
+---------------------------------------------------------------------------
+-------------------Information about the participants-------------------
+[Participant with id :  3  participates in the contest with identifiier :  2c61ef81cfa2b634d3a4e7ed6d1ab22a186aaba4d990ad614fc6b9427da80f1b
+, Participant with id :  4  participates in the contest with identifiier :  e23e82b291a0776e17e8faee37137be5066c2d5a09b1e1e34c4b7afb03b9487d
+, Participant with id :  1  participates in the contest with identifiier :  041189c6ecd6b0973de567b11ee05def5be9280455ca6308b5394b7e1359fba8
+, Participant with id :  2  participates in the contest with identifiier :  51f11180295aa84d7a14648eca127517217b0d5b90dc899bb7d632603a12dc2c
+, Participant with id :  5  participates in the contest with identifiier :  9ce236b60044b5a93f5643f42f081af271913a5692a0a1281ad8fa450e350383
+]
+---------------------------------------------------------------------------
